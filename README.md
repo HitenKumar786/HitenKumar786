@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HitenKumar786
+- 👋 Hi, I’m @HitenKumar
 - 👀 I’m interested in programming Language
 - 🌱 I’m currently learning AI and Chatbots
 - 💞️ I’m looking to collaborate on ...
