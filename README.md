@@ -1,19 +1,13 @@
-- 👋 Hi, I’m @HitenKumar
-- 👀 I’m interested in programming Language
-- 🌱 I’m currently learning AI and Chatbots
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me by 
-     ->Contact No  (+923321278742)
-       Whatsapp No (+923162547268)
-                
-     ->Email: hitenkumarvendani@gmail.com
-     ->Linkdin: https://www.linkedin.com/in/hiten-kumar-87bab4204/
-     
-     
-     
-      
+Hi, I’m Hiten Kumar 
+MSc Data Science student at Ardent University, Berlin 🇩🇪
 
-<!---
-HitenKumar786/HitenKumar786 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Passionate about Artificial Intelligence, Machine Learning, and Data Science. I enjoy building projects that solve real-world problems using Python, Java, and modern AI technologies.
+
+ Currently working on:
+
+* AI-Powered Resume Analyzer using Gemini API
+* Skill Sharing Platform in JavaFX
+* Data Analysis & Machine Learning projects
+
+ Always learning, building, and exploring new technologies.
+ Open to collaboration and exciting opportunities in AI & Data Science.
